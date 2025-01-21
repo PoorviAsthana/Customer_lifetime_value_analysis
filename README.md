@@ -9,7 +9,7 @@ The trend visualization of different strategies is done by using python librarie
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Installation](#installation)
-3. [Analysis & conclusion](#analysis&conclusion)  
+3. [Analysis_&_conclusion](#analysis&conclusion)  
 4. [License](#license)
 
 
@@ -35,7 +35,7 @@ To run this project, it’s recommended to use **Anaconda**, which comes pre-ins
    jupyter notebook
 
 
-## Analysis & conclusion
+## Analysis_&_conclusion
 
 The project makes an analysis on various aspects like:
 1. What is the cost of acquisition for customer retention across various marketing tools/ channels
