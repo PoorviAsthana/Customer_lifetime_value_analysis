@@ -9,7 +9,7 @@ The trend visualization of different strategies is done by using python librarie
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Installation](#installation)
-3. [Analysis_&_conclusion](#analysis&conclusion)  
+3. [Analysis_&_conclusion](#analysis_&_conclusion)  
 4. [License](#license)
 
 
